@@ -1,4 +1,4 @@
-# Clara 👩‍💻
+# Clara 
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNICSUL)  
 📍 São Paulo, Brasil  
@@ -32,5 +32,14 @@ Tenho interesse em tecnologia e estou no início da minha jornada na área de de
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/maria-clara-ads  
-- Email: contato@oliveirasantana@gmail.com
+<div>
+<a href="https://www.instagram.com/amaria_cl/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/maria-clara-ads" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:contato@oliveirasantana@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</div>
