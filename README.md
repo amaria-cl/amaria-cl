@@ -3,10 +3,10 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNICSUL)  
 📍 São Paulo, Brasil  
 
-Oi! Eu sou a Clara 😊  
-Sempre tive curiosidade em entender como as coisas funcionam, e foi isso que me aproximou da tecnologia. Hoje estou começando minha jornada na área de desenvolvimento, aprendendo aos poucos e me desafiando a evoluir todos os dias.
+Oii! Eu sou a Clara 😊  
+Sempre tive curiosidade em entender como as coisas funcionam e foi isso que me aproximou da tecnologia. Hoje estou começando minha jornada na área de desenvolvimento, aprendendo aos poucos e me desafiando a evoluir todos os dias.
 
-Gosto de organizar ideias, resolver problemas e transformar coisas complexas em algo mais simples e funcional — seja em projetos de tecnologia ou no meu dia a dia.
+Gosto de organizar ideias, resolver problemas e transformar coisas complexas em algo mais simples e funcional, seja em projetos de tecnologia ou no meu dia a dia.
 
 💼 Tenho experiência com atividades administrativas, organização de processos e criação de apresentações, o que me ajudou a desenvolver uma boa visão analítica e atenção aos detalhes.
 
