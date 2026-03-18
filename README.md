@@ -1,14 +1,17 @@
-# Clara 
+# Clara 🌀
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNICSUL)  
 📍 São Paulo, Brasil  
 
-Tenho interesse em tecnologia e estou no início da minha jornada na área de desenvolvimento, buscando entender como os sistemas funcionam e como podem ser utilizados para resolver problemas de forma prática e eficiente.
+Oi! Eu sou a Clara 😊  
+Sempre tive curiosidade em entender como as coisas funcionam, e foi isso que me aproximou da tecnologia. Hoje estou começando minha jornada na área de desenvolvimento, aprendendo aos poucos e me desafiando a evoluir todos os dias.
 
-💼 Experiência com atividades administrativas, organização de processos e criação de apresentações, desenvolvendo uma boa visão analítica e atenção aos detalhes.
+Gosto de organizar ideias, resolver problemas e transformar coisas complexas em algo mais simples e funcional — seja em projetos de tecnologia ou no meu dia a dia.
 
-🚀 Buscando minha primeira oportunidade de estágio em TI  
-📚 Atualmente aprendendo Java e Banco de Dados (SQL)
+💼 Tenho experiência com atividades administrativas, organização de processos e criação de apresentações, o que me ajudou a desenvolver uma boa visão analítica e atenção aos detalhes.
+
+🚀 Atualmente estou em busca da minha primeira oportunidade de estágio em TI  
+📚 Estudando Java e Banco de Dados (SQL)
 
 ---
 
