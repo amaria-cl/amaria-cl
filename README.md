@@ -1,35 +1,43 @@
-# Clara 🌀
+# Clara 
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNICSUL)  
-📍 São Paulo, Brasil  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNICSUL)
+💻 Desenvolvedora Júnior Full Stack na ACNSF
+📍 São Paulo, Brasil
 
-Oii! Eu sou a Clara 😊  
-Sempre tive curiosidade em entender como as coisas funcionam e foi isso que me aproximou da tecnologia. Hoje estou começando minha jornada na área de desenvolvimento, aprendendo aos poucos e me desafiando a evoluir todos os dias.
+Oi! Eu sou a Clara 😊
 
-Gosto de organizar ideias, resolver problemas e transformar coisas complexas em algo mais simples e funcional, seja em projetos de tecnologia ou no meu dia a dia.
+Sou Desenvolvedora Júnior Full Stack e estudante de Análise e Desenvolvimento de Sistemas. Atualmente, trabalho na ACNSF, atuando no desenvolvimento e manutenção de aplicações web e na criação de soluções digitais para as necessidades da organização.
 
-💼 Tenho experiência com atividades administrativas, organização de processos e criação de apresentações, o que me ajudou a desenvolver uma boa visão analítica e atenção aos detalhes.
+No meu dia a dia, trabalho com desenvolvimento Full Stack, participando de diferentes etapas dos projetos, desde a estruturação e desenvolvimento das aplicações até sua publicação e evolução. Também tenho contato com banco de dados, desenvolvimento de interfaces e User Experience (UX), buscando criar soluções que sejam não apenas funcionais, mas também intuitivas e agradáveis para quem irá utilizá-las.
 
-🚀 Atualmente estou em busca da minha primeira oportunidade de estágio em TI  
-📚 Estudando Java e Banco de Dados (SQL)
+Sempre gostei de entender como as coisas funcionam, resolver problemas e transformar ideias em soluções práticas. Foi na tecnologia que encontrei uma área que combina minha curiosidade, criatividade e vontade constante de aprender.
 
+Além da experiência profissional, gosto de desenvolver projetos próprios para explorar novas tecnologias, colocar conhecimentos em prática e construir soluções para diferentes necessidades e tipos de negócio.
+
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Full Stack, UX e desenvolvimento web, enquanto construo novos projetos para meu portfólio.
 ---
 
 ## 💻 Tecnologias
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Python" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="HTML" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="MySQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-<img align="center" alt="Java" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-</div>
+Desenvolvimento Web
+
+<div style="display: inline_block"><br> <img align="center" alt="HTML5" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img align="center" alt="CSS3" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img align="center" alt="JavaScript" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <img align="center" alt="PHP" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> <img align="center" alt="Node.js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> </div>
+
+Banco de Dados
+
+<div style="display: inline_block"><br> <img align="center" alt="MySQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> </div>
+
+Outras tecnologias
+
+<div style="display: inline_block"><br> <img align="center" alt="Python" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img align="center" alt="Java" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> </div>
 
 ---
 
 ## 📂 Projetos
 
-📌 Em breve
+Em construção 🚧
+
+Em breve, alguns dos projetos que desenvolvi e estou desenvolvendo estarão disponíveis aqui.
 
 ---
 
